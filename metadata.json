@@ -1,0 +1,6 @@
+{
+  "name": "SortLens AI Waste Sorting System",
+  "description": "AI waste sorting and classification dashboard, vision testing workbench, system settings, and reference repositories.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
